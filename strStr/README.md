@@ -24,3 +24,12 @@ Constraints:
 
 1 <= haystack.length, needle.length <= 104
 haystack and needle consist of only lowercase English characters.
+
+
+
+
+////////////////////// RESULT ////////////
+
+
+Runtime: 2 ms, faster than 68.75% of C++ online submissions for Implement strStr().
+Memory Usage: 6.3 MB, less than 56.49% of C++ online submissions for Implement strStr().
