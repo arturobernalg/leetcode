@@ -36,3 +36,11 @@ The number of nodes in both trees is in the range [0, 100].
 
 Runtime: 6 ms, faster than 20.77% of C++ online submissions for Same Tree.
 Memory Usage: 10 MB, less than 78.39% of C++ online submissions for Same Tree.
+
+
+////////////////////// RESULT 2 //////////////////////
+
+Second time
+
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Same Tree.
+Memory Usage: 9.8 MB, less than 95.10% of C++ online submissions for Same Tree.
