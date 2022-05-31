@@ -24,9 +24,10 @@ int main() {
 std::vector<int> PlusOne::plusOne(std::vector<int> &digits) {
 
     int rest = 0;
-    for (int i = digits.size()-1; i >= 0 ; i--) {
+    int size = digits.size();
+    for (int i = size-1; i >= 0 ; i--) {
         int needSum = 0;    
-        if (i == digits.size()-1)
+        if (i == size-1)
         {
             needSum = 1;
         }else{
@@ -44,7 +45,7 @@ std::vector<int> PlusOne::plusOne(std::vector<int> &digits) {
 
     }
     if (rest > 0) {
-        digits.resize(digits.size()+1);
+        digits.resize(size+1);
         digits[0]=1;
     }
 

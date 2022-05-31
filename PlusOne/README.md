@@ -41,4 +41,4 @@ Thus, the result should be [1,0].
 ## Result
 
 Runtime: 0 ms, faster than 100.00% of C++ online submissions for Plus One.
-Memory Usage: 8.9 MB, less than 12.66% of C++ online submissions for Plus One.
+Memory Usage: 8.7 MB, less than 61.78% of C++ online submissions for Plus One.
